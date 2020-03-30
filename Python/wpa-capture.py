@@ -145,9 +145,3 @@ select_adapter()
 scan_for_targets()
 show_scan_results()
 start_capture()
-
-
-
-
-
-
